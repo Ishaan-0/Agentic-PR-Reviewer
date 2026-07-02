@@ -1,1 +1,9 @@
 CLAUDE.md
+.env 
+backend/.env.example
+backend/.env
+frontend/.env.example
+frontend/.env
+MEMORY.md
+.claude
+.env
