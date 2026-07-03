@@ -7,6 +7,8 @@ import dotenv from "dotenv";
 
 dotenv.config();
 
+console.log("Starting server.....")
+
 const app = express();
 app.use(cors());
 app.use(express.json());
